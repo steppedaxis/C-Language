@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\reani\desktop\יצירת רשימה מקושרת+הדפסה\project1\source.cpp(9): warning C4091: 'typedef ': ignored on left of 'Student' when no variable is declared
+c:\users\reani\desktop\יצירת רשימה מקושרת+הדפסה\project1\source.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\reani\desktop\יצירת רשימה מקושרת+הדפסה\project1\source.cpp(60): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> C:\Users\reani\Desktop\יצירת רשימה מקושרת+הדפסה\Debug\Project1.exe

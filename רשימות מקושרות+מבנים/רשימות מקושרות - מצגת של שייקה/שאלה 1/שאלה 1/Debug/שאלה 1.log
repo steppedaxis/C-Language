@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(94): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(120): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(170): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\reani\desktop\לימודים\שנה ב\udemy\c language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\שאלה 1\source.cpp(196): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  שאלה 1.vcxproj -> C:\Users\reani\Desktop\לימודים\שנה ב\UDEMY\C language\רשימות מקושרות+מבנים\רשימות מקושרות - מצגת של שייקה\שאלה 1\Debug\שאלה 1.exe
